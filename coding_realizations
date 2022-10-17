@@ -1,0 +1,4 @@
+- Think of the exception you're trying to account for
+- Work backwards from requirement to code
+- Walk through desired output in your mind like a machine
+- Think of the relationships between elements in the problems you're trying to solve and figure out the logic between them...a pattern by which they work.
